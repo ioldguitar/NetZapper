@@ -13,3 +13,4 @@ For other OS libraries should be downloaded and installed using *pip install* an
 Net-Zapper can be used for host discovery, ports scanning, os detection and brute force password cracking including passwords dictionary creation based on custom character set. Default character set for passwords dictionary is set to chars *[a-z]* . 
 
 Use this tool for *EDUCATIONAL PURPOSES ONLY* .
+Thank you
